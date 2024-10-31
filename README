@@ -1,0 +1,15 @@
+student name:Malith Pramuditha
+student ID  :20926076
+
+Usp assignment
+
+Use 'make' to compile all source codes.
+
+To run type './USPassignment'
+
+Contents
+
+usp.c
+file.c
+file.h
+makefile
